@@ -7,3 +7,5 @@ Creating a PDF report in Python from LinkedIn scraped data
   - Pandas
   - Seaborn
   - FPDF
+
+> Files will be uploaded soon
